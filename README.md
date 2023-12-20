@@ -1,4 +1,4 @@
-Food Express
+Velox's Kitchen
 
 Once Upon a Time in the Culinary Realm...
 In a bustling city where time never seemed to slow down, there emerged a dire need for a savior—a hero who could rescue hungry souls from the clutches of bland, monotonous meals. Enter Food Express, a revolutionary food delivery service born out of the desire to bring delightful culinary experiences to every doorstep.
@@ -11,19 +11,6 @@ Imagine a world where you can savor the rich aroma of freshly baked pizzas, indu
 
 The Tech Behind the Taste
 Food Express isn't just about delivering food; it's about crafting an immersive culinary journey. Our state-of-the-art platform seamlessly connects food lovers with a curated selection of restaurants, ensuring that every order is a delightful experience. From intuitive mobile apps to lightning-fast delivery logistics, we've left no stone unturned in enhancing your gastronomic adventure.
-
-How to Join the Culinary Expedition
-1. Installation
-Getting started with Food Express is as easy as pie. Simply follow these steps:
-
-
-npm install food-express
-
-2. Place Your Order
-Browse through the mouthwatering menus of our partner restaurants, choose your favorite dishes, and place your order with a few clicks.
-
-3. Track and Enjoy
-Sit back and relax as our culinary heroes prepare your order. Track its journey in real-time and get ready to savor the moment your doorbell rings.
 
 Join Us on This Culinary Adventure
 Embark on this flavorful journey with Food Express and let us redefine the way you experience food. Together, let's transform every meal into a celebration of taste and convenience.
